@@ -1,4 +1,4 @@
-In this project the `index.html` is registered as a PostCSS dependency:
+In this project the `index.html` is [registered as a PostCSS dependency](https://github.com/bradlc/vite-index-bug/blob/main/postcss.config.js#L11-L16):
 
 ```js
 result.messages.push({
